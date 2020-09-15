@@ -1,0 +1,11 @@
+C:\Users\AlexX\source\repos\TP_WS\TP_WS_WF\bin\Debug\TP_WS_WF.exe.config
+C:\Users\AlexX\source\repos\TP_WS\TP_WS_WF\bin\Debug\TP_WS_WF.exe
+C:\Users\AlexX\source\repos\TP_WS\TP_WS_WF\bin\Debug\TP_WS_WF.pdb
+C:\Users\AlexX\source\repos\TP_WS\TP_WS_WF\obj\Debug\TP_WS_WF.csprojAssemblyReference.cache
+C:\Users\AlexX\source\repos\TP_WS\TP_WS_WF\obj\Debug\TP_WS_WF.Form1.resources
+C:\Users\AlexX\source\repos\TP_WS\TP_WS_WF\obj\Debug\TP_WS_WF.Properties.Resources.resources
+C:\Users\AlexX\source\repos\TP_WS\TP_WS_WF\obj\Debug\TP_WS_WF.csproj.GenerateResource.cache
+C:\Users\AlexX\source\repos\TP_WS\TP_WS_WF\obj\Debug\TP_WS_WF.exe
+C:\Users\AlexX\source\repos\TP_WS\TP_WS_WF\obj\Debug\TP_WS_WF.pdb
+C:\Users\AlexX\source\repos\TP_WS\TP_WS_WF\obj\Debug\TP_WS_WF.Form2.resources
+C:\Users\AlexX\source\repos\TP_WS\TP_WS_WF\obj\Debug\TP_WS_WF.Form3.resources
